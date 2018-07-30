@@ -3,7 +3,7 @@ Looking for a job description on the website monster.com.
 
 Installation
 
-$ pip install monstrscan
+$ pip install --user mscan
 
 Example
 
