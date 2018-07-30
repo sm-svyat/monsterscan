@@ -7,7 +7,7 @@ $ pip install --user mscan
 
 Example
 
-from mscan.mscan import MonsterScan
+from mscan.mscan import MonsterScan  
 ms = MonsterScan('python')  
 ms.search()  
 ms.get_urls()  
