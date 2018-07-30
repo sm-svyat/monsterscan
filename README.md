@@ -7,8 +7,8 @@ $ pip install monstrscan
 
 Example
 
->>> ms = MonsterScan('python')
->>> ms.search()
->>> ms.get_urls()
->>> ms.parce_urls()
->>> ms.save_vacancies('python.csv')
+ms = MonsterScan('python')
+ms.search()
+ms.get_urls()
+ms.parce_urls()
+ms.save_vacancies('python.csv')
