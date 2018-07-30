@@ -7,6 +7,7 @@ $ pip install monstrscan
 
 Example
 
+from mscan.mscan import MonsterScan
 ms = MonsterScan('python')  
 ms.search()  
 ms.get_urls()  
